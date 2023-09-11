@@ -1,2 +1,3 @@
-﻿  Source.cpp
-  minh1.vcxproj -> D:\visual_studio\project\minh1\x64\Debug\minh1.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (minh1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  minh1.vcxproj -> D:\visual_studio\project\minh1\x64\Debug\m1.exe
